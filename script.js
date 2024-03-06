@@ -1,4 +1,4 @@
-console.log("Welcome to Spotify");
+console.log("Welcome to MusicArya");
 
 // Initialize the Variables
 let songIndex = 0;
@@ -11,14 +11,14 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
     {songName:"Rim Jhim Gire Sawan",filepath:"songs/1.mp3",coverPath:"covers/1.jpg"},
-    {songName:"Dil Aisa Kisi Ne Mera Toda",filepath:"songs/2.mp3",coverPath:"covers/2.jpg"},
-    {songName:"Dil Kya Kare",filepath:"songs/3.mp3",coverPath:"covers/3.jpg"},
-    {songName:"Gaadi Bula Rahi Hai",filepath:"songs/4.mp3",coverPath:"covers/4.jpg"},
-    {songName:"Hamen Tumse Pyar Kitna",filepath:"songs/5.mp3",coverPath:"covers/5.jpg"},
-    {songName:"Shayad Meri Shadi Ka Khayal Dil Mein Aaya Hai",filepath:"songs/6.mp3",coverPath:"covers/6.jpg"},
-    {songName:"Tere Chehre Mein Woh Jadoo Hai",filepath:"songs/7.mp3",coverPath:"covers/7.jpg"},
-    {songName:"Tere-Chehre-Se-Nazar",filepath:"songs/8.mp3",coverPath:"covers/8.jpg"},
-    {songName:"Wada Karo Nahin Chodogi Mera Saath",filepath:"songs/9.mp3",coverPath:"covers/9.jpg"},
+    {songName:"Dil Aisa Kisi Ne Mera Toda",filepath:"songs/2.mp3",coverPath:"covers/1.jpg"},
+    {songName:"Dil Kya Kare",filepath:"songs/3.mp3",coverPath:"covers/1.jpg"},
+    {songName:"Gaadi Bula Rahi Hai",filepath:"songs/4.mp3",coverPath:"covers/1.jpg"},
+    {songName:"Hamen Tumse Pyar Kitna",filepath:"songs/5.mp3",coverPath:"covers/1.jpg"},
+    {songName:"Shayad Meri Shadi Ka Khayal Dil Mein Aaya Hai",filepath:"songs/6.mp3",coverPath:"covers/1.jpg"},
+    {songName:"Tere Chehre Mein Woh Jadoo Hai",filepath:"songs/7.mp3",coverPath:"covers/1.jpg"},
+    {songName:"Tere-Chehre-Se-Nazar",filepath:"songs/8.mp3",coverPath:"covers/1.jpg"},
+    {songName:"Wada Karo Nahin Chodogi Mera Saath",filepath:"songs/9.mp3",coverPath:"covers/1.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 
