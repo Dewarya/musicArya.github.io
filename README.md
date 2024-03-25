@@ -19,4 +19,5 @@ musicarya is a simple yet efficient music player built using HTML, CSS, and Java
 
 
 ## Screenshots
-![Screenshot (178)](https://github.com/Dewarya/musicArya.github.io/assets/85952205/9544fb17-eaf9-4ca6-ab2a-1781c1ccf0bf)
+![Screenshot 2024-03-25 233955](https://github.com/Dewarya/musicArya.github.io/assets/85952205/e005c086-45e4-4ccf-abd0-a4053b706d43)
+
